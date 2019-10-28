@@ -1,0 +1,28 @@
+{
+  "name": "instagram-private-tools",
+  "version": "2.0.1",
+  "description": "Instagram Private Tools",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "chalk": "^2.4.2",
+    "colors": "^1.4.0",
+    "cron": "^1.7.1",
+    "delay": "^2.0.0",
+    "inquirer": "^4.0.2",
+    "instagram-private-api": "^0.10.1",
+    "lodash": "^4.17.5",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.25",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "string": "^3.3.3",
+    "user-home": "^2.0.0"
+  },
+  "author": "officialputuid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/officialputuid/toolsig"
+  },
+  "license": "MIT"
+}
