@@ -1,3 +1,5 @@
+[![asciicast](https://asciinema.org/a/MSN7xgLjdoYzF5npleL02tbDi.png)](https://asciinema.org/a/MSN7xgLjdoYzF5npleL02tbDi)
+
 ## Instagram Private Tools x toolsig v2.0.1
 * Instagram Tools Based on NodeJS (This script or code was created by ccocot - Aldi Nugraha).
 * bomliketarget,botlike,botlike2,dellallphoto,lnkauto,fnlauto,fftauto,fmlauto,fhtauto,fltauto,unfollall,unfollnotfollback.
@@ -80,6 +82,7 @@ $ [License](#license)
 ## Other Information
 	☆ Aldi Nugraha a.k.a (Ccocot Ccocot).
 	☆ Zerobyte.id - BC0DE.NET - NAONLAH.NET - WingKocoli.
+	☆ Thank https://github.com/dilame/instagram-private-api for node module
 	☆ Thank you for the help of all members SGB TEAM REBORN (https://www.sgb.or.id/).
 	
 ## My Social Media
